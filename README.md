@@ -1,16 +1,6 @@
-<div align="center">
-  <h1>Hi, I’m Abdul Haseeb</h1>
-</div>
+<h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
+<h3 align="center">I am a **MERN Stack developer** with a strong passion for building dynamic and responsive web applications. Currently, I am freelancing and working on various web development projects. I'm always looking to learn new frameworks, tools, and libraries to enhance my skill set.</h3>
 
-<div align="center">
-  <h3>Software Engineer</h3>
-</div>
-
-<h4>- 👨🏻‍💻 MERN Stack Developer</h4>
-<h4>- 💞️ I’m looking to collaborate with Tech Companies and Like-Minded Developers.</h4>
-<h4>- 📫 Reach me <a href="mailto:abdulhaseebsohail115@gmail.com">abdulhaseebsohail115@gmail.com</a></h4>
-
-<!---
-Muhammad-Owais1/Muhammad-Owais1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
