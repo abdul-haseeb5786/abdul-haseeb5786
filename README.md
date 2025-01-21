@@ -4,7 +4,7 @@
 - 🌱 I’m currently diving into **AI (Artificial Intelligence), Machine Learning, and Data Science**  
 - 👨‍💻 Check out my work at [My Portfolio](https://portfolio1-phi-snowy.vercel.app)  
 - 👯 I’m looking to collaborate with **Tech Companies** and like-minded developers  
-- 💬 Ask me about **React, Next.js, JavaScript, Frontend Development, and MERN Stack**  
+- 💬 Ask me about **React, React Native, Next.js, JavaScript, TypeScript, Frontend Development, and MERN Stack**  
 - 📫 Reach me at **abdulhaseebsohail115@gmail.com**  
 - 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/abdul-haseeb-0646a526a)  
 
@@ -12,32 +12,44 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abdul-haseeb-0646a526a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:abdulhaseebsohail115@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://portfolio1-phi-snowy.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%231DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abdul-haseeb-0646a526a" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0e76a8/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdulhaseebsohail115@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Gmail" />
+  </a>
+  <a href="https://portfolio1-phi-snowy.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0078D7/domain.png" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js">
-  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux">
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman">
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop">
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Illustrator">
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/office/48/react.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" />
+  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
+  <img src="https://img.icons8.com/color/48/tailwind-css.png" alt="TailwindCSS" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/ios-filled/50/black/express-js.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Photoshop" />
+  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/vercel.png" alt="Vercel" />
+  <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" />
 </p>
 
 ---
