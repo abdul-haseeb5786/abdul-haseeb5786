@@ -31,25 +31,25 @@
   <img src="https://img.icons8.com/fluency/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/fluency/48/000000/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/fluency/48/000000/react.png" alt="React" />
-  <img src="https://img.icons8.com/fluency/48/000000/react-native.png" alt="React Native" />
-  <img src="https://img.icons8.com/fluency/48/000000/next.js.png" alt="Next.js" />
-  <img src="https://img.icons8.com/fluency/48/000000/redux.png" alt="Redux" />
-  <img src="https://img.icons8.com/fluency/48/000000/tailwind-css.png" alt="TailwindCSS" />
+    <img src="https://img.icons8.com/office/48/react.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" />
+   <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
+  <img src="https://img.icons8.com/color/48/tailwind-css.png" alt="TailwindCSS" />
   <img src="https://img.icons8.com/fluency/48/000000/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/fluency/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js" />
-  <img src="https://img.icons8.com/fluency/48/000000/django.png" alt="Django" />
-  <img src="https://img.icons8.com/fluency/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/fluency/48/000000/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/color/48/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
   <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/fluency/48/000000/postman-api.png" alt="Postman" />
+  <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" />
   <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" alt="Photoshop" />
   <img src="https://img.icons8.com/fluency/48/000000/adobe-illustrator.png" alt="Illustrator" />
-  <img src="https://img.icons8.com/fluency/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
   <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
-  <img src="https://img.icons8.com/fluency/48/000000/vercel.png" alt="Vercel" />
-  <img src="https://img.icons8.com/fluency/48/000000/netlify.png" alt="Netlify" />
+  <img src="https://img.icons8.com/color/48/vercel.png" alt="Vercel" />
+  <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" />
 </p>
 
 
