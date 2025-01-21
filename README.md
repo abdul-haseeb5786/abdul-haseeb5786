@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [portfolio1-phi-snowy.vercel.app](portfolio1-phi-snowy.vercel.app)
 
+- 👯 I’m looking to collaborate with **Tech Companies**
+
 - 💬 Ask me about **React, NextJS, JavaScript, Frontend Development, and anything related to MERN Stack.**
 
 - 📫 How to reach me **abdulhaseebsohail115@gmail.com**
