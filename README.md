@@ -35,7 +35,7 @@
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" />
    <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
   <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
-  <img src="https://img.icons8.com/color/48/tailwind-css.png" alt="TailwindCSS" />
+  <img src="https://img.icons8.com/fluency/48/000000/tailwind-css.png" alt="TailwindCSS" />
   <img src="https://img.icons8.com/fluency/48/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js" />
