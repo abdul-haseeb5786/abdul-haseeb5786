@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
 <br>
 <h3 align="center">A passionate MERN Stack developer with expertise in building dynamic and responsive web applications. I am currently freelancing and working on exciting web development projects. Always eager to learn and explore new frameworks, tools, and technologies to enhance my skill set.</h3>
-<br>
+
+
 - 🌱 I’m currently diving into **AI (Artificial Intelligence), Machine Learning, and Data Science**  
 - 👨‍💻 Check out my work at [My Portfolio](https://portfolio1-phi-snowy.vercel.app)  
 - 👯 I’m looking to collaborate with **Tech Companies** and like-minded developers  
