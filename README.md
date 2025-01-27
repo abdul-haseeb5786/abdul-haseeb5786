@@ -1,3 +1,8 @@
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+
 <h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
 <h3 align="center">A passionate MERN Stack developer with expertise in building dynamic and responsive web applications. I am currently freelancing and working on exciting web development projects. Always eager to learn and explore new frameworks, tools, and technologies to enhance my skill set.</h3>
 
