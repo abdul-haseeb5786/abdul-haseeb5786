@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack developer with expertise in building dynamic and responsive web applications. I am currently freelancing and working on exciting web development projects. Always eager to learn and explore new frameworks, tools, and technologies to enhance my skill set.</h3>
 
 - 🌱 I’m currently diving into **AI (Artificial Intelligence), Machine Learning, and Data Science**  
-- 👨‍💻 Check out my work at [My Portfolio(https://portfolio1-jade-zeta.vercel.app/)]
+- 👨‍💻 Check out my work at [My Portfolio](https://portfolio1-jade-zeta.vercel.app/)]
 - 👯 I’m looking to collaborate with **Tech Companies** and like-minded developers  
 - 💬 Ask me about **React, React Native, Next.js, JavaScript, TypeScript, Frontend Development, and MERN Stack**  
 - 📫 Reach me at **abdulhaseebsohail115@gmail.com**  
