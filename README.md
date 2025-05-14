@@ -18,7 +18,7 @@
   <a href="mailto:abdulhaseebsohail115@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Gmail" />
   </a>
-  <a href="https://portfolio1-jade-zeta.vercel.app/" target="_blank">
+  <a href="https://abdulhaseeb-portfolio.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0078D7/domain.png" alt="Portfolio" />
   </a>
 </p>
