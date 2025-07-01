@@ -66,3 +66,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdul-haseeb5786&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+<!-- Add this at end of README -->
+![Snake animation](https://github.com/abdul-haseeb5786/abdul-haseeb5786/blob/output/github-contribution-grid-snake.svg)
+
