@@ -35,25 +35,26 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/fluency/48/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/office/48/react.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" />
-  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
-  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
-  <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000" alt="TailwindCSS" />
-  <img src="https://img.icons8.com/fluency/48/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" />
-  <img src="https://img.icons8.com/color/48/django.png" alt="Django" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
-  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" title="HTML5" />
+  <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" title="CSS3" />
+  <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/fluency/48/typescript.png" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.icons8.com/office/48/react.png" alt="React" title="React" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" title="React Native" />
+  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js" />
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux" />
+  <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000" alt="TailwindCSS" title="TailwindCSS" />
+  <img src="https://img.icons8.com/fluency/48/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" title="Express.js" />
+  <img src="https://img.icons8.com/color/48/django.png" alt="Django" title="Django" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" />
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase" />
+  <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" />
 </p>
+
 
 ---
 
