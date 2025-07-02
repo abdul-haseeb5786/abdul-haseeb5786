@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdul-haseeb5786&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
 <h3 align="center">
   A passionate MERN Stack developer with expertise in building dynamic and responsive web applications.  
@@ -57,6 +61,10 @@
 
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdul-haseeb5786&theme=radical" alt="Trophies" />
+</p>
+
 
 <h3 align="center">📊 GitHub Stats</h3>
 
