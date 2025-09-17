@@ -36,35 +36,65 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center">🛠 Skills & Tech Stack</h3>
 
+### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" title="HTML5" />
-  <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" title="CSS3" />
-  <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.icons8.com/fluency/48/typescript.png" alt="TypeScript" title="TypeScript" />
-  <img src="https://img.icons8.com/office/48/react.png" alt="React" title="React" />
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" title="React Native" />
-  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js" />
-  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux" />
-  <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="https://img.icons8.com/fluency/48/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js" />
-  <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" title="Express.js" />
-  <img src="https://img.icons8.com/color/48/django.png" alt="Django" title="Django" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" />
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase" />
-  <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" title="Python" />
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />
-  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" />
+  <img src="https://img.icons8.com/fluency/48/javascript.png" title="JavaScript" />
+  <img src="https://img.icons8.com/fluency/48/typescript.png" title="TypeScript" />
+  <img src="https://img.icons8.com/fluency/48/python.png" title="Python" />
+  <img src="https://img.icons8.com/color/48/dart.png" title="Dart" />
 </p>
 
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://img.icons8.com/office/48/react.png" title="React" />
+  <img src="https://img.icons8.com/color/48/nextjs.png" title="Next.js" />
+  <img src="https://img.icons8.com/fluency/48/html-5.png" title="HTML5" />
+  <img src="https://img.icons8.com/fluency/48/css3.png" title="CSS3" />
+  <img src="https://img.icons8.com/fluency/48/bootstrap.png" title="Bootstrap" />
+  <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png" title="Tailwind CSS" />
+  <img src="https://img.icons8.com/?size=48&id=r9QJ0VFFrn7T&format=png&color=000000" title="Chakra UI" />
+  <img src="https://img.icons8.com/color/48/redux.png" title="Redux Toolkit" />
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" />
+  <img src="https://img.icons8.com/fluency/48/express-js.png" title="Express.js" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" />
+  <img src="https://img.icons8.com/color/48/mongoose.png" title="Mongoose" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase" />
+</p>
+
+### 🚀 DevOps
+<p align="center">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS" />
+  <img src="https://img.icons8.com/color/48/azure-1.png" title="Azure" />
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker" />
+  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub Actions" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter" />
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React Native" />
+</p>
+
+### 🔧 Tools & Technologies
+<p align="center">
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" />
+  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/api.png" title="RESTful APIs" />
+</p>
+ 
 
 ---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdul-haseeb5786&theme=radical" alt="Trophies" />
 </p>
-
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -75,4 +105,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdul-haseeb5786&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
