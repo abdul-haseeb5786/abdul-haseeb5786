@@ -96,12 +96,27 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abdul-haseeb5786&theme=radical" alt="Trophies" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Insights</h3>
 
+<!-- GitHub Stats + Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-haseeb5786&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abdul-haseeb5786&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" 
+    alt="GitHub Stats" 
+    height="200px"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-haseeb5786&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" 
+    alt="Top Languages" 
+    height="200px"
+  />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdul-haseeb5786&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=abdul-haseeb5786&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakNum=C0C0C0&sideNums=C0C0C0&currStreakLabel=C0C0C0&sideLabels=C0C0C0" 
+    alt="GitHub Streak" 
+    height="200px"
+  />
 </p>
