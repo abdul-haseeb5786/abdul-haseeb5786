@@ -116,7 +116,7 @@
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-haseeb5786&count_private=true&include_all_commits=true&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=C0C0C0&sideNums=C0C0C0&currStreakLabel=FFD700&sideLabels=FFD700&dates=C0C0C0" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-haseeb5786&count_private=true&include_all_commits=true&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=C0C0C0&sideNums=C0C0C0&currStreakLabel=FFD700&sideLabels=FFD700&dates=C0C0C0&cache_seconds=3600" 
     alt="GitHub Streak Stats" 
     height="200px"
   />
