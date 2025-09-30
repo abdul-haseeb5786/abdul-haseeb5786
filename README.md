@@ -106,10 +106,10 @@
     height="200px"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-haseeb5786&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" 
-    alt="Top Languages" 
-    height="200px"
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-haseeb5786&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" 
+  alt="Top Languages" 
+  height="200px"
+/>
 </p>
 
 <!-- Streak Stats -->
