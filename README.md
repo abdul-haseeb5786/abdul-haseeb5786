@@ -4,26 +4,27 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
 <h3 align="center">
-  A passionate MERN Stack developer with expertise in building dynamic and responsive web applications.  
-  I am currently freelancing and working on exciting web development projects.  
-  Always eager to learn and explore new frameworks, tools, and technologies to enhance my skill set.
+  A passionate <b>MERN Stack Developer</b> & <b>AI Automation Engineer</b> with expertise in building dynamic, intelligent, and responsive web applications.  
+  Currently freelancing and working on exciting projects that merge <b>AI</b>, <b>Automation</b>, and <b>Modern Web Development</b>.  
+  Always eager to explore the latest frameworks, tools, and technologies to enhance productivity and creativity.
 </h3>
 
 ---
 
-- 🌱 I’m currently diving into **AI (Artificial Intelligence), Machine Learning, and Data Science**  
+- 🌱 I’m currently diving deep into **AI, Machine Learning, Data Science, and Automation Tools (n8n, Vapi, MCP)**  
+- 🤖 I build **AI-powered workflows, automation systems, and voice agents** to make digital processes smarter  
 - 👨‍💻 Check out my work at [My Portfolio](https://abdulhaseeb-portfolio.vercel.app/)  
-- 👯 I’m looking to collaborate with **Tech Companies** and like-minded developers  
-- 💬 Ask me about **React, React Native, Next.js, JavaScript, TypeScript, Frontend Development, and MERN Stack**  
+- 👯 I’m open to collaborating with **Tech Companies, AI Teams, and Full Stack Developers**  
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, Automation, AI Integration, and Voice Agents**  
 - 📫 Reach me at **abdulhaseebsohail115@gmail.com**  
-- 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/abdul-haseeb-0646a526a)
+- 📄 Learn more on [LinkedIn](https://www.linkedin.com/in/abdul-haseeb200)
 
 ---
 
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-haseeb-0646a526a" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-haseeb200" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0e76a8/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="mailto:abdulhaseebsohail115@gmail.com" target="_blank">
@@ -32,6 +33,17 @@
   <a href="https://abdulhaseeb-portfolio.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0078D7/domain.png" alt="Portfolio" />
   </a>
+</p>
+
+---
+
+<h3 align="center">🧠 AI & Automation Tools</h3>
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/ffffff/artificial-intelligence.png" title="AI" />
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="48" width="48" title="n8n" />
+  <img src="https://img.icons8.com/ios-filled/50/00C3FF/chatgpt.png" title="OpenAI" />
+  <img src="https://img.icons8.com/?size=50&id=pUf6Ty49x4KC&format=png&color=000000" title="MCP" />
+  <img src="https://img.icons8.com/ios/50/00C3FF/microphone.png" title="Voice Agents" />
 </p>
 
 ---
@@ -88,17 +100,16 @@
   <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub" />
   <img src="https://img.icons8.com/color/48/api.png" title="RESTful APIs" />
 </p>
- 
 
 ---
 
+<h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdul-haseeb5786&theme=radical" alt="Trophies" />
 </p>
 
 <h3 align="center">📊 GitHub Insights</h3>
 
-<!-- GitHub Stats + Top Languages -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=abdul-haseeb5786&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" 
@@ -112,8 +123,6 @@
 />
 </p>
 
-<!-- Streak Stats -->
-<!-- GitHub Streak Stats -->
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-haseeb5786&count_private=true&include_all_commits=true&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=C0C0C0&sideNums=C0C0C0&currStreakLabel=FFD700&sideLabels=FFD700&dates=C0C0C0&cache_seconds=3600" 
